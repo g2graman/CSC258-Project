@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Apr 02 09:43:11 2013
+Quartus II 32-bit Version : 12.1 Build 177 11/07/2012 SJ Web Edition
+Revision Name : morsecode
+Top-level Entity Name : morsecode
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 1,114 / 33,216 ( 3 % )
+    Total combinational functions : 1,027 / 33,216 ( 3 % )
+    Dedicated logic registers : 498 / 33,216 ( 1 % )
+Total registers : 498
+Total pins : 108 / 475 ( 23 % )
+Total virtual pins : 0
+Total memory bits : 0 / 483,840 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
